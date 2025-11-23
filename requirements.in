@@ -1,0 +1,6 @@
+langgraph
+langchain[openai]
+langchain-community
+langchain-text-splitters
+bs4
+python-dotenv
