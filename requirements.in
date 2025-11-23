@@ -4,3 +4,5 @@ langchain-community
 langchain-text-splitters
 bs4
 python-dotenv
+black
+isort
